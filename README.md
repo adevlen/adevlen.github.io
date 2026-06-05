@@ -8,7 +8,7 @@ Welcome to the repository for my personal portfolio!
 
 ## About Me
 
-<img src="profile/profile.jpg" alt="Anna G. Morgani" width="200" style="border-radius: 50%;"/>
+<img src="profile.png" alt="Anna G. Morgani" width="200" style="border-radius: 50%;"/>
 
 Hi, I'm **Anna Morgani (Devlen)**!
 
