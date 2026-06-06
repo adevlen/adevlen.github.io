@@ -1,8 +1,6 @@
-# adevlen.github.io
+# Welcome to my personal portfolio!
 
-Welcome to the repository for my personal portfolio!
-
-** [View the Live Site](https://adevlen.github.io/) **
+**[View the Live Site](https://adevlen.github.io/)**
 
 ---
 
@@ -24,6 +22,6 @@ In my free time, you can find me hiking, exploring new restaurants, or planning 
 * **Connect on LinkedIn:** [linkedin.com/in/anna-morgani](https://www.linkedin.com/in/anna-morgani/)
 
 ## Featured Projects
-* [checkerboard_analyzer](https://github.com/adevlen/checkerboard_analyzer) - A Python CLI for fitting 4-parameter Hill dose-response curves and calculating Bliss and Loewe drug synergy scores from combination assay data.
+* [checkerboard_analyzer](https://github.com/adevlen/checkerboard_analyzer) - A Python CLI for fitting 4-parameter Hill dose-response curves and calculating Bliss and Loewe drug synergy scores from checkerboard assay data.
 * [Spectral Clustering for scRNA-seq](https://github.com/ibonomi-MSSE/274B-Micropresentation) - Team implementation of a from-scratch spectral clustering algorithm to categorize immune cell populations from scRNA-seq data.
 * [Neurodegenerative Disease Classification](https://github.com/qyxhust/Chem277-Team4-Project) - Team implementation of an ANN and GAT to predict neurodegenerative disease status from proteomics data.
